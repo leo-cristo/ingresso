@@ -1,3 +1,6 @@
+// comentário para teste de commit
+
+
 function comprar(){
     let tipo = document.getElementById('tipo-ingresso');
     let qtd = parseInt(document.getElementById('qtd').value);
